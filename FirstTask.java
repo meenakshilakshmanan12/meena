@@ -4,14 +4,14 @@ public class FirstTask{
 
     public static String concatWithStr()    {  
         String t = "Meenakshi"; 
-        for(int i=0;i<1000;i++){		
+        for(int i=0;i<5000;i++){		
            t = t + "Lakshmanan";   
         }
 		return t;  
     }  
     public static String concatWithStrBuf(){  
         StringBuffer sb = new StringBuffer("Meenakshi");
-		for(int i=0;i<1000;i++){
+		for(int i=0;i<5000;i++){
         sb.append("Lakshmanan");
 		}		
         return sb.toString();  
