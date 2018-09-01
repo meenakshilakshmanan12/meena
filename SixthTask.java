@@ -3,7 +3,6 @@ import java.util.HashMap;
 
 public class CharOccuranceInString {
 	public static void main(String[] args) {
-		//String s= "java";
 		Scanner scan = new Scanner(System. in);
 	    System.out.println("enter the string:");
 		String s = scan.nextLine();
