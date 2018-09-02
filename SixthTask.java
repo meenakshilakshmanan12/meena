@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-public class CharOccuranceInString {
+public class SixthTask {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System. in);
 	    System.out.println("enter the string:");
